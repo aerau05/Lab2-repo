@@ -1,2 +1,3 @@
 Hello, GitHub!
 Adding a new line to test git diff.
+Also used git status and git log see the current state of directory and the commit history
